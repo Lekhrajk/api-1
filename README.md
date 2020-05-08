@@ -82,6 +82,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 - [Bihar COVID-19 Dashboard/Tracker](https://coronainbihar.github.io/) (by [@anandv01](https://github.com/anandv01))
 - [COVID19 Tracker/Predictor](https://track-covid-19ind.herokuapp.com/) (by [@manoj](https://github.com/ManojNallusamy))
 - [COVID-19 Tracker App](https://corona-india.live/) (by [@sandeshchoudhary](https://github.com/sandeshchoudhary))
+- [COVID-19 Dashboard(India | worldwide) vue.js+boostrap4](https://covid19live.today/) (by [@haryanvi_developer](https://github.com/Lekhrajk))
 
 
 **Telegram Bots**
